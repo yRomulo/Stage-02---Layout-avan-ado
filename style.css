@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: 'Mulish', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.page {
+  border: 1px solid red;
+  width: 1000px;
+  margin: 65px auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 55px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 48px;
+}
